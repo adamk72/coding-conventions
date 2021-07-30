@@ -1,3 +1,5 @@
+**A note to the reader:** This is currently in a state of flux, created in an ad-hoc manner from several recent projects coming to a head. I will be collborating with those folks and others to implement a better, more comprehensive version of this ReadMe file for the wider community.
+
 # Coding Conventions
 
 Use these rule for Guidance:
@@ -116,6 +118,3 @@ Use these rule for Guidance:
     - Remove hard coded values (1024, 768)
     - isMobile, isTablet is poor practice
   - Or better, let Tailwind handle that decision.
-
-- Why are `./pages/*/index.tsx` simply functions to a component?
-  - What is the purpose of `./pages` in general?
